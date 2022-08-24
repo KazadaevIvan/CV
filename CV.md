@@ -13,7 +13,7 @@
 
 ## About Me
 
-More than 3 years is software testing. Worked as manual and automation software test engineer on web and mobile projects. 
+More than 3 years in software testing. Worked as manual and automation software test engineer on web and mobile projects. 
 
 At the moment I'm focused on UI and API test automation using Java/JavaScript and Selenium WebDriver/WebdriverIO. I've participated in the development of the test automation frameworks as well as have maintained existing regression automated test scripts and created new ones on a daily basis.
 
