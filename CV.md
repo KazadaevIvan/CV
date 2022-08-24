@@ -1,5 +1,7 @@
 # Ivan Kazadaew
 
+![avatar](https://user-images.githubusercontent.com/29704185/186361959-db5b6ab7-ed6f-4c81-b1ad-148089144a81.jpeg)
+
 ## QA Automation Engineer
 
 ## Contacts
