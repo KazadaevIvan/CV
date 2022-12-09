@@ -6,7 +6,7 @@
 
 ## Contacts
 
-* Location: Minsk, Belarus
+* Location: Gdansk, Poland
 * E-mail: ivan.kazadaew@gmail.com
 * LinkedIn: https://www.linkedin.com/in/ivan-kazadaev
 * GitHub: https://github.com/KazadaevIvan
@@ -71,5 +71,4 @@ At the moment I'm focused on UI and API test automation using Java/JavaScript an
 
 ## Languages
 
-* Russian - native
 * English - B1-B2
